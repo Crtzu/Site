@@ -1,0 +1,32 @@
+body{
+	margin:5%; 
+	background-color:#95D8E9;
+	
+}
+
+h1,h2,h3 {
+
+	text-aling:center;
+
+}
+
+.detalii-personale{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	width:60%
+}
+
+.email {
+	color: #6CA7E2;
+}
+	
+table, th, td {
+  	border:1px solid black;
+	
+
+	
+}
+th,td{
+	padding:5px;
+}
